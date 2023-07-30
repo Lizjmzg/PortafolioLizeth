@@ -30,8 +30,8 @@ Contacto:
 
 Esta página web fue creada con:
 
-* HTML
-* CSS
+* HTML5
+* CSS3
 * JavaScript 
 * Bootstrap 5
 
