@@ -7,7 +7,7 @@ El propósito de esta página web es mostrar mi portafolio de proyectos. Incluye
 Dividida en 5 secciones:
 
 Primera parte de la página web:
-![Primera parte de la página web](imagenes/Primera-parte.pn)
+![Primera parte de la página web](imagenes/Primera-parte.png)
 
 Experiencia:
 ![Experiencia](imagenes/Experiencia.png)
