@@ -10,7 +10,7 @@ También incluye imágenes alternativas en la carpeta `imagenes` en caso de que 
 
 Primera parte de la página web:
 
-![Primera parte de la página web](images/primera-parte.png)
+![Primera parte de la página web](images/Primera-parte.png)
 
 Experiencia:
 
