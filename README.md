@@ -1,7 +1,7 @@
 # Portafolio Adaptable (Responsive) con Bootstrap 5
-# Introducción 📖
+## Introducción 📖
 Este proyecto fue creado para el bootcamp TECNOLOchicasPRO 👩🏽‍💻, es una página web adaptable a dispositivos de distintos tamaños (este tipo de sitio web se conoce en inglés como "responsive"). 
-# Propósito 📝
+## Propósito 📝
 El propósito de esta página web es mostrar mi portafolio de proyectos. Incluye los cursos que he tomado, habilidades e idiomas, experiencia, proyectos, testimonios y formas de contacto. 
 
 Dividida en 5 secciones:
